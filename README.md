@@ -2,7 +2,9 @@
 PAKDD2021第二届阿里云智能运维算法大赛第23名解决方案
 
 赛题与数据下载链接：https://tianchi.aliyun.com/competition/entrance/531874/information
+
 评分函数借鉴：https://tianchi.aliyun.com/notebook-ai/detail?spm=5176.12586969.1002.3.166144c3LEoTaC&postId=200049
+
 方案和经验总结blog：https://zhuanlan.zhihu.com/p/370924882
 
 # 解决方案
